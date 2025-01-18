@@ -164,8 +164,8 @@
 
 
 
-const play=document.querySelector('.fa-play')
-const pause=document.querySelector('.fa-pause')
+const play=document.querySelector('.Play')
+const pause=document.querySelector('.Pause')
 const rowsInput=document.querySelector('.rows')
 const delayInput=document.querySelector('.delay')
 const colorinput=document.querySelector('.color input')
